@@ -13,3 +13,8 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+*,
+*:focus,
+*:hover {
+  outline: none !important;
+}
